@@ -1,0 +1,15 @@
+{
+  "name": "search_bar",
+  "version": "1.0.0",
+  "description": "I am making a search bar with Node.JS, Express, MongoDB, and Mongoose. I think this is an important aspect of any blog websites. :)",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Benisthebest"
+  },
+  "author": "Ben Levy",
+  "license": "ISC"
+}
